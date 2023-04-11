@@ -9,7 +9,3 @@ function calc(a, b, operation){
     }
     }
     console.log(calc(1, 2 , "add"));
-
-    let a = "nikon".slice(1, 4);
-    console.log(a);
-    
